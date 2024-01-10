@@ -7,6 +7,9 @@ name = "pypi"
 django = "*"
 djangorestframework = "*"
 python-dotenv = "*"
+psycopg = "*"
+psycopg2-binary = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
